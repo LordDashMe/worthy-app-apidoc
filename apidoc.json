@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Documentation on how to access and extend the Worthy App.",
   "title": "Worthy App API Documentation",
-  "url" : "https://worthy-app.onrender.com",
+  "url" : "https://api.worthy-app.com",
   "order": [
     "User",
     "DataSource",
