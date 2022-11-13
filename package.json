@@ -3,7 +3,7 @@
   "description": "The Worthy App API Documentation.",
   "private": true,
   "scripts": {
-    "build": "apidoc -i src/ -o doc/"
+    "build": "apidoc -i src/ -o docs/"
   },
   "devDependencies": {
     "apidoc": "^0.53.1"
