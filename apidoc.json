@@ -1,0 +1,18 @@
+{
+  "name": "Worthy App API Documentation",
+  "version": "1.0.0",
+  "description": "Documentation on how to access and extend the Worthy App.",
+  "title": "Worthy App API Documentation",
+  "url" : "https://worthy-app.onrender.com",
+  "order": [
+    "User",
+    "DataSource",
+    "System"
+  ],
+  "template": {
+    "showRequiredLabels": true,
+    "withCompare": true,
+    "withGenerator": false,
+    "aloneDisplay": true
+  }
+}

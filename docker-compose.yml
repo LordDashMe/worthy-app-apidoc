@@ -1,0 +1,14 @@
+version: '3.9'
+services:
+  app:
+    container_name: 'worthy-app-apidoc'
+    tty: true
+    stdin_open: true
+    image: 'node:16-alpine'
+    networks:
+      - default
+    volumes:
+      - '.:/var/worthy-app-apidoc/'
+networks:
+  default:
+    name: 'worthy-app-apidoc_network'  
