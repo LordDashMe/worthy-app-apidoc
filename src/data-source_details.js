@@ -24,6 +24,11 @@
  *   ...
  * }
  * 
+ * @apiErrorExample {json} No-Data-Source-Error-Response:
+ * HTTP/1.1 400 Bad Request
+ * {
+ *   "message": "No data source found."
+ * }
  * @apiErrorExample {json} Failed-Response:
  * HTTP/1.1 400 Bad Request
  * {
