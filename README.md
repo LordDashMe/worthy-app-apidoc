@@ -1,4 +1,4 @@
-# Worthy App API Doc
+# Worthy App APIDoc
 
 The Worthy App API Documentation.
 
